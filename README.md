@@ -38,8 +38,6 @@ sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan peri
 
 gunakanlah dengan ```bijak,``` atas apapun yang terjadi admin tidak ```bertanggung jawab.```
 
-<h5 align="left">Thanks for <a href="https://github.com/rabbittechnologi">Rabbit Tech</a> and <a href="https://github.com/VinzSector">Vinz</a></h5>
+<h5 align="left">Thanks for <a href="https://github.com/rabbittechnologi">Rabbit Tech</a> and <a href="https://github.com/VinzSector">Hemker Martabak</a></h5>
 
-href="https://github.com/VinzSector">Shinoby</a></h5>
-
-href="https://github.com/VinzSector">Hemker Martabak</a></h5>
+- Spesial thanks to: ```All author scrip cracking bruteforce indonesia.```

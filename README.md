@@ -40,4 +40,4 @@ gunakanlah dengan ```bijak,``` atas apapun yang terjadi admin tidak ```bertanggu
 
 <h5 align="left">Thanks for <a href="https://github.com/rabbittechnologi">Rabbit Tech</a> and <a href="https://github.com/VinzSector">Hemker Martabak</a></h5>
 
-- Spesial thanks to: ```All author scrip cracking bruteforce indonesia.```
+- Spesial thanks to: ```All author script kiddie indonesia,india, Bangladesh.```

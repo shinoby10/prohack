@@ -19,6 +19,10 @@
 
     $ python run.py
 
+<h5 align="left">UNTUK MENDAPATKAN UPDATE SCRIPT SETIAP HARINYA KETIK PERINTAH:</h5>
+
+    $ git pull
+    
 - Oke sekarang script sudah berhasil di ```install```
 
 <h5 align="left">CARA MENJALANKAN SCRIPT:</h5>

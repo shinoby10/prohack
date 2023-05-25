@@ -1,6 +1,7 @@
 #prohack #fbcrack #bruteforce #facebook #mbf
 
 ``TOOLS CRACK IJO LUMUT KUNING TAI !!!``
+`` BUG DI MENU DUMP BAGIAN CLONER ``
 
 <h5 align="left">CARA INSTALL SCRIPT:</h5>
 

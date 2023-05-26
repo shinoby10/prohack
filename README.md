@@ -11,8 +11,6 @@
     $ pip install pyfiglet
     
     $ pip install setuptools
-    
-    $ rm -rf prohack
 
     $ git clone https://github.com/shinoby10/prohack
 

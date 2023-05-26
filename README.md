@@ -41,8 +41,7 @@ sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan peri
 
 <h5 align="left">LOGIN COOKIE:</h5>
 
-- Notice me: ```Hasil crack banyak atau sedikit nya tergantung target yang di dapatkan.```
-
+- Notice me: ``` Jangan menggunakan cookie dari free facebook (Tidak suport) ```
 <h5 align="left">catatan:</h5>
 
 gunakanlah dengan ```bijak,``` atas apapun yang terjadi admin tidak ```bertanggung jawab.```

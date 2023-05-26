@@ -37,7 +37,7 @@ sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan peri
 
 - Notice me: ```Anda bisa memberikan sedikit donasi paling tidak 200k per orang 🤣 ``` <a href="https://wa.me/+6289522066222">Klik disini</a>
 
-- Notice me: ```Gunakan Lah Dengan Bijak Agar Method Tidak Gampang Mokad!!!```
+- Notice me: ```Untuk masalah hasil banyak sedikit tergantung jaringan anda, jika sapai tidak ada hasil silakan ganti simcard atau gunakan APN SAKTI sesuai simcard anda bisa juga menggunakan VPN dengan menggonta ganti server!!!```
 
 <h5 align="left">LOGIN COOKIE:</h5>
 

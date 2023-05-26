@@ -6,7 +6,7 @@
 
     $ pkg update && pkg upgrade
 
-    $ pkg install python git
+    $ pkg install python
     
     $ pip install pyfiglet
     

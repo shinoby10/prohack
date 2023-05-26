@@ -31,11 +31,15 @@
 
 <h5 align="left">CARA MENJALANKAN SCRIPT:</h5>
 
-sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan perintah dibawah ini
+Masuk kedalam dir/ tempat dimana letak tools ter install, jika anda menginstall tools di dalam folder root termux silakan masuk terlebih dahulu dengan mengetik perintah (cd $HOME) perhatikan perintah dibawah ini :
 
-    $ cd $HOME/prohack
-
-    $ git pull
+    $ cd $HOME
+    
+    $ ls
+    
+    (perintah 'ls' adalah untuk mengecek folder/file)
+    
+    $ cd prohack
 
     $ python run.py
 

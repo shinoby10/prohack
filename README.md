@@ -5,6 +5,7 @@
 `` 2 in 1 > Clone $ Crack``
 `` DUMP ID PUBLIK & MASAL ``
 `` UA All Branded, DLL ``
+`` TOOLS INI SEPENUHNYA GRATIS ``
 
 <h5 align="left">CARA INSTALL SCRIPT:</h5>
 

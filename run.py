@@ -1,2 +1,2 @@
 import prohack
-prohack.login()
+prohack.______menulogin______()

@@ -2,11 +2,23 @@
 
 ``TOOLS CRACK IJO LUMUT KUNING TAI !!!``
 
-`` 2 in 1 > Clone $ Crack``
+`` 2 in 1 > CLONE $ CRACK``
 `` DUMP ID PUBLIK & MASAL ``
 `` UA All Branded, DLL ``
 `` TOOLS INI SEPENUHNYA GRATIS ``
 
+<h5 align="left">METHODE LOGIN:</h5>
+
+    $ Mobile login one (old,game)
+
+    $ Mobile login two (New)
+
+    $ Mobile logi Tree
+
+    $ Mobile login Reguler (New)
+
+    $ Mobile login Ansyc
+    
 <h5 align="left">CARA INSTALL SCRIPT:</h5>
 
     $ pkg update && pkg upgrade

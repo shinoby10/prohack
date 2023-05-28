@@ -23,13 +23,13 @@
 
     $ Old idz 15 digit (hanya hitungan detik/menit)
 
-    $ Old idz 10 digit
+    $ Old idz 10 digit (normal)
 
-    $ Old idz 8 digit
+    $ Old idz 8 digit (normal)
 
-    $ Old idz 7 digit
+    $ Old idz 7 digit (normal)
 
-    $ Old idz 6 digit
+    $ Old idz 6 digit (normal)
     
     $ Old idz 5 digit
     

@@ -2,6 +2,10 @@
 
 ``TOOLS CRACK IJO LUMUT KUNING TAI !!!``
 
+`` 2 in 1 > Clone $ Crack``
+`` DUMP ID PUBLIK & MASAL ``
+`` UA All Branded, DLL ``
+
 <h5 align="left">CARA INSTALL SCRIPT:</h5>
 
     $ pkg update && pkg upgrade
